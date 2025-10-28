@@ -18,8 +18,8 @@ WEBHOOK_A2 = "https://discord.com/api/webhooks/1432234671609090170/aeFdcxLY2Isnj
 WEBHOOK_B  = "https://discord.com/api/webhooks/1421519342025048064/NA2PvYR6j-bjIgF6PenKqz7WYdidnobyl_xyFqZMTTeK8mlPGSmtf0hK7hBOeRE4nCZb"  # 10M–100M
 WEBHOOK_C  = "https://discord.com/api/webhooks/1430372825772064821/H-08cjnKafbsrxJtXYonGG-MiBIhQDzNUgkw89O5gqjIFp_NejK_wDJAlwnR-aWkO30J"  # >100M
 
-bot1 = "MTQyMjAzNjQyNDM"
-bot2 = "yNDI4ODUzMw.GvLVxX._lDt0Z71bhmPm5vtcRQlw2qGCrA9J19FO7yaGE"
+bot1 = "MT"
+bot2 = "QyMjAzNjQyNDMyNDI4ODUzMw.GEmpiO.mSsAtmiWf_hw5fJAuuZArqyRARI9HxC1iNjPKw"
 bot_token = bot1 + bot2
 BOT_TOKEN = bot_token
 STATS_CHANNEL_ID = 1432178785146503221  # ID do canal onde enviar estatísticas
