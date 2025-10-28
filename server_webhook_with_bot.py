@@ -18,7 +18,7 @@ WEBHOOK_A2 = "https://discord.com/api/webhooks/1432234671609090170/aeFdcxLY2Isnj
 WEBHOOK_B  = "https://discord.com/api/webhooks/1421519342025048064/NA2PvYR6j-bjIgF6PenKqz7WYdidnobyl_xyFqZMTTeK8mlPGSmtf0hK7hBOeRE4nCZb"  # 10M–100M
 WEBHOOK_C  = "https://discord.com/api/webhooks/1430372825772064821/H-08cjnKafbsrxJtXYonGG-MiBIhQDzNUgkw89O5gqjIFp_NejK_wDJAlwnR-aWkO30J"  # >100M
 
-BOT_TOKEN = "MTQyMjAzNjQyNDMyNDI4ODUzMw.G8qy7L.G4iSMH5bA06AtuOx8ya_yJaftNMMlmlI0a14iM"
+BOT_TOKEN = "MTQyMjAzNjQyNDMyNDI4ODUzMw.GvLVxX._lDt0Z71bhmPm5vtcRQlw2qGCrA9J19FO7yaGE"
 STATS_CHANNEL_ID = 1432178785146503221  # ID do canal onde enviar estatísticas
 
 PLACE_ID = 109983668079237
